@@ -51,10 +51,10 @@ _Check out the **pinned repos** for more!_ 😃
   <summary>GitHub stats</summary>
   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=WilliamSimoni&count_private=false&show_icons=true">
+      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=WilliamSimoni&count_private=false&show_icons=true&theme=tokyonight">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamSimoni&hide=jupyter%20notebook&layout=compact&langs_count=10">
+      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamSimoni&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=tokyonight">
     </a>
   </div>
 </details>
