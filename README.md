@@ -43,9 +43,8 @@ _Check out the **pinned repos** for more!_ 😃
 <!-- <img width=70px src="assets/unipi_logo.png" /> &nbsp;
 <img width=70px src="assets/univr_logo.png" /> &nbsp;
 <img width=70px src="assets/elte_logo.png" /> -->
-* **Master's degree:** I am currently a MSc student in **Artificial Intelligence** at University of Pisa
-* **Bachelor's degree:** I graduated in **Computer Science** at University of Pisa
-
+* **Bachelor's degree:** I graduated in **Computer Science** at the University of Pisa
+* **Master's degree:** I am currently a MSc student in **Artificial Intelligence** at the University of Pisa
 
 <!-- GitHub stats -->
 <details open>
